@@ -18,7 +18,7 @@
   <a href="mailto:contacto@techsolutionsgt.dev">
     <img src="https://img.shields.io/badge/📧_Email-Contáctame-0d1117?style=for-the-badge&labelColor=1a5fb4" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguelecabrera/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5" alt="LinkedIn"/>
   </a>
 </p>
@@ -35,9 +35,9 @@
 
 ```typescript
 const developer = {
-    nombre: "TechSolutions GT",
+    nombre: "Miguel Cabrera,
     ubicación: "Guatemala 🇬🇹",
-    rol: "Full Stack Developer & Software Architect",
+    rol: "System Engineer and Full Stack Developer & Software Architect",
     especialidades: [
         "Desarrollo de Software a Medida",
         "Sistemas CRM & ERP",
